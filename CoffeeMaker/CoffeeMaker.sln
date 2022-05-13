@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMaker", "CoffeeMaker.csproj", "{62905C9A-3116-4FF7-A67D-DB7386271786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarBucksTest", "..\StarBucksTest\StarBucksTest.csproj", "{B01F366C-D32A-4A88-B1EC-597FC94CB434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62905C9A-3116-4FF7-A67D-DB7386271786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62905C9A-3116-4FF7-A67D-DB7386271786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62905C9A-3116-4FF7-A67D-DB7386271786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62905C9A-3116-4FF7-A67D-DB7386271786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B01F366C-D32A-4A88-B1EC-597FC94CB434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01F366C-D32A-4A88-B1EC-597FC94CB434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01F366C-D32A-4A88-B1EC-597FC94CB434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01F366C-D32A-4A88-B1EC-597FC94CB434}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {698BE1BF-7949-4BF6-BD4F-D665D195E65A}
+	EndGlobalSection
+EndGlobal
